@@ -171,7 +171,6 @@
            >
    <com.google.android.material.textfield.TextInputEditText
        android:layout_width="match_parent"
-       android:id="@+id/getuser"
        android:layout_height="wrap_content"
        android:drawableLeft="@drawable/user"
        android:drawablePadding="14dp"/>
